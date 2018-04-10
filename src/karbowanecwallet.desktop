@@ -1,0 +1,26 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Niobio
+GenericName=Niobio wallet
+Name[uk]=Niobio
+Name[ru]=Niobio
+Name[pl]=Niobio
+Name[be]=Niobio
+Name[de]=Niobio
+Name[es]=Niobio
+Name[pt]=Niobio
+Comment=Niobio wallet
+Comment[uk]=Гаманець Niobio
+Comment[ru]=Кошелек Niobio
+Comment[pl]=Portfel Niobio
+Comment[be]=Кашалёк Niobio
+Comment[de]=Niobio Brieftasche
+Comment[es]=Niobio Monedero
+Comment[pt]=Niobio wallet
+Exec=niobio %U
+Terminal=false
+Type=Application
+Icon=karbowanec
+MimeType=x-scheme-handler/karbowanec;
+Categories=Office;Finance;
+Version=1.3.0
