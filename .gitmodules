@@ -5,3 +5,4 @@
 [submodule "cryptonote"]
 	path = cryptonote
 	url = https://github.com/uaicoin/uaicoin.git
+
